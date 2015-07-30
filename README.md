@@ -12,7 +12,8 @@ your project's `composer.json`.
 	...
 	"require": {
 		"rootxs/sudobible-laravel": "dev-master"
-	}
+	},
+	...
 }
 ```
 
