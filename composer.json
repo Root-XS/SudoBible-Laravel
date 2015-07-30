@@ -13,7 +13,7 @@
 	],
 	"require": {
 		"php": ">=5.4",
-		"rootxs/sudobible": "dev-master"
+		"rootxs/sudobible": "0.*"
 	},
     "require-dev": {
         "laravel/framework": "~5.1"
